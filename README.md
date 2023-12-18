@@ -1,4 +1,3 @@
-Github Link: https://github.com/akhiller30/Thread-Library
 # Introduction
 The purpose of this project is to understand how threads work by implementing
 a user-level thread library (libuthread).
